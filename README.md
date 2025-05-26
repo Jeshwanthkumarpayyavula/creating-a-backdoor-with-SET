@@ -35,6 +35,8 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers.  
 The command `sudo setoolkit` in the prompt gives menu with set prompt:  
 ## OUTPUT:  
+![image](https://github.com/user-attachments/assets/b823876c-a4f4-4257-be24-d2150cebc044)
+
 <img src="https://github.com/user-attachments/assets/deb7b61f-d18d-462b-a829-a5aaa3ea241c" width=600>
 
 The command `sudo setoolkit` in the prompt gives menu with set prompt. Select menu 1 for Social Engineering Attacks.  
